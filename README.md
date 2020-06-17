@@ -21,3 +21,6 @@ We can give the new dataset to fine tune the pre-trained CNN. Consider that the 
 
 The previous layers can help to extract the features of the new data. So it will be good if we fix the earlier layers and retrain the rest of the layers, if we got only small amount of data.
 If you have large amount of data, you can retrain the whole network with weights initialized from the pre-trained network.
+
+# VGG 16
+VGG16 (also called OxfordNet) is a convolutional neural network architecture. 
