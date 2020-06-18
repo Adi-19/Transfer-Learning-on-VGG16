@@ -31,6 +31,7 @@ The unique thing about VGG16 is that instead of having a large number of hyper-p
 
 It always uses same padding and maxpool layer of 2x2 filter of stride 2. 
 
+The 16 in VGG16 refers to it has 16 layers that have weights. This network is a pretty large network and it has about 138 million (approx) parameters.
 It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture. In the end it has 2 FC(fully connected layers) followed by a softmax for output.
 
 
