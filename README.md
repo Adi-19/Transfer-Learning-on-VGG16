@@ -26,3 +26,5 @@ If you have large amount of data, you can retrain the whole network with weights
 VGG16 (also called OxfordNet) is a convolutional neural network architecture. 
 
 It was used to win the ILSVR (ImageNet) competition in 2014
+
+The unique thing about VGG16 is that instead of having a large number of hyper-parameter they focused on having convolution layers of 3x3 filter with a stride 1 
