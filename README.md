@@ -27,4 +27,10 @@ VGG16 (also called OxfordNet) is a convolutional neural network architecture.
 
 It was used to win the ILSVR (ImageNet) competition in 2014
 
-The unique thing about VGG16 is that instead of having a large number of hyper-parameter they focused on having convolution layers of 3x3 filter with a stride 1 
+The unique thing about VGG16 is that instead of having a large number of hyper-parameter they focused on having convolution layers of 3x3 filter with a stride 1.
+
+It always uses same padding and maxpool layer of 2x2 filter of stride 2. 
+
+It follows this arrangement of convolution and max pool layers consistently throughout the whole architecture. In the end it has 2 FC(fully connected layers) followed by a softmax for output.
+
+
