@@ -7,10 +7,10 @@ The size of the new data set, and
 The similarity of the new data set to the original data set
 The approach for using transfer learning will be different. There are four main cases:
 
-New data set is small, new data is similar to original training data.
-New data set is small, new data is different from original training data.
-New data set is large, new data is similar to original training data.
-New data set is large, new data is different from original training data.
+1. New data set is small, new data is similar to original training data.
+2. New data set is small, new data is different from original training data.
+3. New data set is large, new data is similar to original training data.
+4. New data set is large, new data is different from original training data.
 
 
 # Pre-Training
