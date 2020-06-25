@@ -3,9 +3,9 @@
 In deep learning, transfer learning is a technique whereby a pretrained neural network model is used on a problem that is being solved previously. 
 # Depending on both:
 
-#The size of the new data set, and
-#The similarity of the new data set to the original data set
-#The approach for using transfer learning will be different. There are four main cases:
+The size of the new data set, and
+The similarity of the new data set to the original data set
+The approach for using transfer learning will be different. There are four main cases:
 
 New data set is small, new data is similar to original training data.
 New data set is small, new data is different from original training data.
